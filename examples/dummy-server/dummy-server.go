@@ -20,7 +20,8 @@ import (
 	"syscall"
 )
 
-import "git.torproject.org/pluggable-transports/goptlib.git"
+// import "git.torproject.org/pluggable-transports/goptlib.git"
+import "github.com/yuzhiwei1995/goptlib"
 
 var ptInfo pt.ServerInfo
 
